@@ -1,0 +1,25 @@
+name: june
+age: 26
+address: "busan"
+active: true
+key:
+    key: value
+    key2: 33
+    key3:
+        key: value
+        key2: value2
+jsonobjecy: {key: value, key2: 33, key3: {key: value}}
+array:
+    - item1
+    - item2
+    - {key: value}
+objectsArray:
+  - key
+  - key2
+  - key2: value
+    key: value2
+longtext: |
+    Rough on the surface but you cut through like a knife And 
+    if it was an open-shut caseI never would've known from that look on your faceLost in your current like a priceless wine
+    The more that you sayThe less I know Wherever you strayI followI'm begging for you to take my handWreck my plans
+    That's my man
